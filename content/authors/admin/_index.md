@@ -5,7 +5,7 @@ avatar_filename: ""
 bio: My research interests include chemical vapor deposition(CVD),vapor phase
   axial deposition(VAD) and quality control(QC).
 interests:
-  - vapor deposition(CVD)
+  - chemical vapor deposition(CVD)
   - vapor phase axial deposition(VAD)
 social:
   - icon: envelope
