@@ -1,7 +1,7 @@
 ---
 title: Jonah_Yang(杨金鑫)
 role: ""
-avatar_filename: ""
+avatar_filename: 72a1f86a-3985840d.0e8a3e5f_recompress.jpg
 bio: My research interests include chemical vapor deposition(CVD),vapor phase
   axial deposition(VAD) and quality control(QC).
 interests:
