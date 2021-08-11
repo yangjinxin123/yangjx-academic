@@ -1,6 +1,7 @@
 ---
 title: Jonah_Yang(杨金鑫)
 role: ""
+avatar_filename: ""
 bio: My research interests include chemical vapor deposition(CVD),vapor phase
   axial deposition(VAD) and quality control(QC).
 interests:
@@ -23,19 +24,16 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Hentong Intelligent
+    url: http://hengtongzhineng.com/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
+    - course: MEng in Chemical Engineering and Technology
+      institution: Soochow University
+      year: 2015
     - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      institution: XuZhou University of Technology
+      year: 2011
 email: ""
 superuser: true
 highlight_name: false
